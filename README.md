@@ -49,5 +49,7 @@ Bu eğitim sonrasında: <br>
 ## Eğitimle ilgili bağlantılar:
 &#128279; [Eğitim İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)<br>
 &#128279; [Ehttps://us02web.zoom.us/meeting/register/PcTwofFaRrqTNbE3X1D6Ag) <br>
-<!-- [tanıtım görseli](https://github.com/necatiergin/MART-2026-C-KURSU/blob/main/kurs_gorseli.png) -->
+<!-- 
+[tanıtım görseli](https://github.com/necatiergin/MART-2026-C-KURSU/blob/main/kurs_gorseli.png) 
+-->
 
